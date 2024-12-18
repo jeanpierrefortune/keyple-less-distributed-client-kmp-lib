@@ -4,7 +4,7 @@
 
 The **Keyple Distributed Client KMP Library** is a Kotlin Multiplatform implementation enabling distributed remote
 client communications across Android, iOS and desktop platforms. This library provides a distributed architecture layer
-for remote terminals, making it easier to develop cross-platform applications using Keyple.
+for remote terminals, making it easier to develop cross-platform applications connecting to a Keyple server.
 
 ## Documentation & Contribution Guide
 Full documentation available at [keyple.org](https://keyple.org)
