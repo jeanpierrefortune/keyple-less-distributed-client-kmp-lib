@@ -8,6 +8,7 @@ kotlin = "2.0.21"
 kotlinxSerialization = "1.7.3"
 napier = "2.7.1"
 ktor = "2.3.12"
+dokka = "1.9.10"
 keypleLess = "+"
 jdk="17"
 
@@ -32,4 +33,4 @@ keypleLessReaderNfcmobile = { module = "org.eclipse.keyple:keypleLessReaderNfcMo
 androidLibrary = { id = "com.android.library", version.ref = "agp" }
 kotlinMultiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
 kotlinSerialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
-dokka = { id = "org.jetbrains.dokka", version = "1.9.10" }
+dokka = { id = "org.jetbrains.dokka", version.ref = "dokka" }
