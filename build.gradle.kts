@@ -37,7 +37,7 @@ kotlin {
     sourceSets {
         commonMain.dependencies {
 
-            api(libs.keypleLessReaderNfcmobile)
+            api(libs.keypleless.reader.nfcmobile.kmp.lib)
 
             implementation(libs.kotlinx.coroutines)
             implementation(libs.kotlinx.datetime)

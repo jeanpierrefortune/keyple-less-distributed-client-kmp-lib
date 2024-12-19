@@ -19,4 +19,4 @@ The code is built with **Gradle** and targets **Android**, **iOS**, and **JVM** 
 
 ## API Documentation
 API documentation & class diagrams are available
-at [docs.keyple.org/keyple-less-distributed-client-kmp-lib](https://docs.keyple.org/keyple-less-distributed-client-kmp-lib/)
+at [docs.keyple.org/keypleless-distributed-client-kmp-lib](https://docs.keyple.org/keypleless-distributed-client-kmp-lib/)
